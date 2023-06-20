@@ -98,7 +98,7 @@ Adam. Adam has a hammer. I saw him fixing his chair once. He is on this floor ot
 
 “Hi Adam, got a hammer by any chance?”
 
-“You do? That’s great. I was begging to think the universe is conspiring against me.”
+“You do? That’s great. I was begining to think the universe is conspiring against me.”
 
 “Making coffee.”
 
