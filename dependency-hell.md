@@ -116,7 +116,7 @@ Back to the kitchen with Adam and the hammer. Coffee bag wrapped and ready to go
 
 “Wow, this really smells good.”
 
-Let’s make some coffee. Open the machine drawer. Throw the old dirty soggy filter to the garbage. Yuck. Get new... Noooo!
+Let’s make some coffee. Open the machine drawer. Throw the old dirty soggy filter to the garbage. Yuck. Get a new one... Noooo!
 
 “Adam, we have no filters!”
 
