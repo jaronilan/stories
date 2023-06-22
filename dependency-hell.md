@@ -20,9 +20,9 @@ There should be a can of ground coffee here in the cupboard above the counter. A
 
 It’s good to stretch a little, here we go, cabinet is, is, is here. Cabinet is, is, is locked.
 
-No biggie. Jake has keys. His office is on the first floor. I’ll take the stairs it’s good exercise.
+No biggie. Jake has keys. His office is on the first floor. I’ll take the stairs; it’s good exercise.
 
-Down we go, 4, 3, 2, 1, here we are. Jake’s office, has a, a, a note: “I’m not in this week, if you need help see Janice at building 17”.
+Down we go. 4, 3, 2, 1, here we are. Jake’s office has a, a, a note: “I’m not in this week. If you need help see Janice at Building 17”.
 
 Building 17, it’s just across the street. I know where her office is. Let’s go there. 
 
@@ -58,21 +58,21 @@ Back we walk, up the stairs, 1, 2, 3, 4. Now what do we do? What do we do? What 
 
 “The supply cabinet is locked.”
 
-“Jake not in this week.”
+“Jake's not in this week.”
 
 “Janice doesn’t have the keys.”
 
-“How do I know that? I just went to building 17 and talked to her.”
+“How do I know that? I just went to Building 17 and talked to her.”
 
 “Samantha, you are such a saver! I should have thought about it before. Heading up there right now.”
 
-To the 7th floor. Marketing department, mini kitchen. I’ll take the elevator now. 4, 5, 6, 7 ping. Down the hall and we are here.
+To the 7th floor. Marketing department, mini kitchen. I’ll take the elevator now. 4, 5, 6, 7, ping. Down the hall and we are here.
 
-Wow. That’s a fancy machine. Much better than ours. Let’s see. Here? No. Here? Nope. Here? Click. Capsules. Wait. Where do I get one? Let’s try the cupboard.
+Wow. That’s a fancy machine. Much better than ours. Let’s see... Here? No. Here? Nope. Here? Click. Capsules. Wait. Where do I get one? Let’s try the cupboard.
 
-No capsules. Hummm, Think, think. Cabinet down the hallway? It will be locked. Seen that. Let’s check the other cupboards. Napkins. Cookies. Should I? Naaa, diet. Pots? Who needs pots? Bags. Bag. Bag of coffee!
+No capsules. Hummm, think, think. Cabinet down the hallway? It will be locked. Seen that. Let’s check the other cupboards. Napkins. Cookies. Should I? Naaa, diet. Pots? Who needs pots? Bags. Bag. Bag of coffee!
 
-Here we go. Down the stairs. 7, 6, 5, 4. Through the hallway and into the kitchen. Open the bag. Hummm. Open the bag. Hummm. Scissors. Scissors? Here scissors. Cut. It’s Beans. Damn.
+Here we go. Down the stairs. 7, 6, 5, 4. Through the hallway and into the kitchen. Open the bag. Hummm. Open the bag. Hummm. Scissors. Scissors? Here scissors. Cut. They're beans. Damn.
 
 “Samantha!”
 
@@ -102,35 +102,35 @@ Adam. Adam has a hammer. I saw him fixing his chair once. He is on this floor ot
 
 “Making coffee.”
 
-“Sure come on.”
+“Sure, come on.”
 
 Back to the kitchen with Adam and the hammer. Coffee bag wrapped and ready to go. Adam will use the hammer. I’ll hold.
 
 “Yes. You can start.”
 
-“Watch out.”
+“Watch out!”
 
-“Finger is fine, finger is fine. Just make sure we don’t break any tiles”.
+“Finger is fine, finger is fine... Just make sure we don’t break any tiles”.
 
-“A few more.”
+“A few more...”
 
 “Wow, this really smells good.”
 
-Let’s make some coffee. Open the machine drawer. Throw the old dirty soggy filter to the garbage. Yak. Get new... noooo!
+Let’s make some coffee. Open the machine drawer. Throw the old dirty soggy filter to the garbage. Yuck. Get a new one... Noooo!
 
 “Adam, we have no filters!”
 
-“Marketing had extra coffee, maybe they have extra filters. I don’t know. I don’t know. Let’s see what Samantha says.
+“Marketing had extra coffee, maybe they have extra filters. I don’t know. I don’t know. Let’s see what Samantha says.”
 
 “Samantha, we have no filters.”
 
-“That’s not giving up. If they have a machine in building 12, I’d rather just go there. It’s simpler. Meet me there?”
+“That’s not giving up. If they have a machine in Building 12, I’d rather just go there. It’s simpler. Meet me there?”
 
 “Adam, you coming? Samantha is.”
 
-“To building 12. They have this old coffee vending machine”.
+“To Building 12. They have this old coffee vending machine.”
 
-Down the elevator. 4, 3, 2, 1 ping. Out and to the left. 300 meters up hill.
+Down the elevator. 4, 3, 2, 1, ping. Out and to the left. 300 meters up hill.
 
 “Hi Samantha, great to see you in person.”
 
@@ -154,13 +154,13 @@ Out of lobby down the street. Round the corner. Stand in line.
 
 Tap. Let’s wait. Here it comes.
 
-“I got to go back to my desk if that’s ok with you guys.”
+“I got to go back to my desk, if that’s ok with you guys.”
 
-Back round the corner, up the street. Pass building 12. 200 meters down hill.
+Back round the corner, up the street. Pass Building 12. 200 meters down hill.
 
 “Bye Samantha, thanks for the help! See ya around.”
 
-300 meters more downhill. Into the building. Up the elevator, 1, 2, 3, 4 ping.
+300 meters more downhill. Into the building. Up the elevator, 1, 2, 3, 4, ping.
 
 “See you Adam.”
 
