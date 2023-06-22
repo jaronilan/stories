@@ -94,7 +94,7 @@ Towel? Found one. Wrap bag with towel. Take bag wrapped in towel and place it on
 
 “Floor by floor? I don’t like that. I have an idea. I know how to solve this thing! Wait.”
 
-Adam. Adam has a hammer. I saw him fixing his chair once. He is on this floor other side. Let’s go. Cubical, cubical, cubical. Found him.
+Adam. Adam has a hammer. I saw him fixing his chair once. He is on this floor other side. Let’s go. Cubicle, cubicle, cubicle. Found him.
 
 “Hi Adam, got a hammer by any chance?”
 
