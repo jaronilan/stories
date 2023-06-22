@@ -22,7 +22,7 @@ It’s good to stretch a little, here we go, cabinet is, is, is here. Cabinet is
 
 No biggie. Jake has keys. His office is on the first floor. I’ll take the stairs; it’s good exercise.
 
-Down we go - 4, 3, 2, 1 - here we are. Jake’s office, has a, a, a note: “I’m not in this week. If you need help see Janice at Building 17”.
+Down we go. 4, 3, 2, 1, here we are. Jake’s office has a, a, a note: “I’m not in this week. If you need help see Janice at Building 17”.
 
 Building 17, it’s just across the street. I know where her office is. Let’s go there. 
 
