@@ -68,7 +68,7 @@ Back we walk, up the stairs, 1, 2, 3, 4. Now what do we do? What do we do? What 
 
 To the 7th floor. Marketing department, mini kitchen. I’ll take the elevator now. 4, 5, 6, 7, ping. Down the hall and we are here.
 
-Wow. That’s a fancy machine. Much better than ours. Let’s see. Here? No. Here? Nope. Here? Click. Capsules. Wait. Where do I get one? Let’s try the cupboard.
+Wow. That’s a fancy machine. Much better than ours. Let’s see... Here? No. Here? Nope. Here? Click. Capsules. Wait. Where do I get one? Let’s try the cupboard.
 
 No capsules. Hummm, think, think. Cabinet down the hallway? It will be locked. Seen that. Let’s check the other cupboards. Napkins. Cookies. Should I? Naaa, diet. Pots? Who needs pots? Bags. Bag. Bag of coffee!
 
@@ -102,17 +102,17 @@ Adam. Adam has a hammer. I saw him fixing his chair once. He is on this floor ot
 
 “Making coffee.”
 
-“Sure come on.”
+“Sure, come on.”
 
 Back to the kitchen with Adam and the hammer. Coffee bag wrapped and ready to go. Adam will use the hammer. I’ll hold.
 
 “Yes. You can start.”
 
-“Watch out.”
+“Watch out!”
 
-“Finger is fine, finger is fine. Just make sure we don’t break any tiles”.
+“Finger is fine, finger is fine... Just make sure we don’t break any tiles”.
 
-“A few more.”
+“A few more...”
 
 “Wow, this really smells good.”
 
@@ -162,7 +162,7 @@ Back round the corner, up the street. Pass Building 12. 200 meters down hill.
 
 300 meters more downhill. Into the building. Up the elevator, 1, 2, 3, 4, ping.
 
-“See you, Adam.”
+“See you Adam.”
 
 Down the hall. There’s my desk. It’s been a while.
 
