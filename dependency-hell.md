@@ -138,7 +138,7 @@ About 200 meters more. Into the lobby. Here it is. No tap. No tap? No tap!
 
 “Anyone got change?” 
 
-“Ok guys. This is a dead end and it’s shity coffee. Starbucks?”
+“Ok guys. This is a dead end and it’s shitty coffee. Starbucks?”
 
 Out of lobby down the street. Round the corner. Stand in line.
 
