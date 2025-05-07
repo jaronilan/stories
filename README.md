@@ -4,4 +4,3 @@
 * [Salad](./Salad.pdf)
 * [Duplicitous](./Duplicitous.pdf)
 * [Base Rate](./Base%20Rate.pdf)
-* 
