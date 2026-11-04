@@ -186,6 +186,12 @@ Down the hall. There’s my desk. It’s been a while.
 
 Oh crap. 
 
-⸻⸻⸺ 
+⸻⸻⸺
+
 (c) All Rights Reserved 
-Vancouver, 2026
+Vancouver, 2026 
+
+Derived from: 
+Dependency Hell
+(c) All Rights Reserve
+Vancouver, 2021
