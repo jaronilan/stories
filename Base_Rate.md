@@ -1,9 +1,30 @@
-# Base Rate
+
+
+
+
+
+
+
+
+
+# Salad
 *by Jaroni Lan*
+<br>
+<br>
+<br>
+<br>
 
-“Your Life Expectancy has increased by 3 months.” The message on the watch screen was scrolling as he stepped off the treadmill.
 
-It was a good session. He went off script a little today. It was supposed to be “Legs Day,” but he went for a full-body workout instead. Two core machines, two leg machines, two push machines, and two pull machines. Then a 2.4K run, which he completed in 12 minutes and 1 second, which was then computed as a VO2 max of 49.00—superior for his age and, frankly, good at any age. “Guess that’s what’s been at play here,” he thought to himself. He was feeling triumphant.
+
+
+
+
+
+
+
+“Your life expectancy has increased by 3 months.” The message on the watch screen was scrolling as he stepped off the treadmill.
+
+It was a good session. He went off script a little today. It was supposed to be “Legs Day,” but he went for a full-body workout instead. Two core machines, two leg machines, two push machines, and two pull machines. Then a 2.4K run, completed in 12 minutes and 1 second and computed as a VO2 max of 49.00—superior for his age and, frankly, good at any age. “Guess that’s what’s been at play here,” he thought to himself. He was feeling triumphant.
 
 He met her near the lockers.  
 “Got another message,” he said, and smiled.  
@@ -24,12 +45,12 @@ She looked at him.
 “Rate went up again?” he asked.  
 She nodded and increased her pace as they briskly walked on the freshly dumped trail.
 
-His dad died of a heart attack in his late 50s. From what his doctor told him in his 40s, even based on family history alone, he was at risk of suffering the same fate. “I was indeed on the chubby side,” he admitted to himself, and followed her down the path. But now, having lost weight and with all the cardio data, family history was no longer the decisive factor; his risk of having a heart attack had dropped dramatically, and his life expectancy was rising.
+His dad died of a heart attack in his late 50s. From what his doctor told him in his 40s, even based on family history alone, he was at risk of suffering the same fate. “I was indeed on the chubby side,” he admitted to himself, and followed her down the path. But now that he had lost weight and had all the cardio data, family history was no longer the decisive factor; his risk of having a heart attack had dropped dramatically, and his life expectancy was rising.
 
 Her grandma died of cancer, and her grandpa had just died of “old age,” which basically meant he was old enough for the healthcare system to sign off on him without digging further.  
 “She can’t eliminate cancer risk with just exercise, and there sure isn’t anything she can do to counter old age. I wish they would have dug further,” he thought to himself.
 
-He had been thinking about the life expectancy thing for a while now. Talked to people. Read some articles. He thought he had it figured out. He had a plan. The problem, as it always is, was how to present it correctly. “I think I know how to fix this,” he said.
+He had been thinking about the life expectancy thing for a while now. Talked to people. Read some articles. He thought he had it figured out. He had a plan. The problem, as always, was how to present it correctly. “I think I know how to fix this,” he said.
 
 She glanced at him. She didn’t say anything, but from the look she gave him, he figured he should go on, so he did. “They are lowering our projected annuity payments because the data they are getting tells them they’ll have to pay them longer. They are increasing the rate on the student loan because they project our estate will be smaller when and if it is transferred to Emily. They are not trying to hurt us; they are just processing data.”
 
@@ -59,9 +80,9 @@ He felt like she knew the answer and was just testing him, but he kept going any
 “So they are lowering their life expectancy!” he exclaimed. The tone of his voice made him sound a little victorious.  
 She obviously didn’t like it. The trail flattened.
 
-“Going to Base Camp is lame,” she muttered as a matter of fact, continuing her brisk march down.  
-He agreed. “It is a glorified commercialized hike; there are enough mountains around us to climb,” he thought to himself as he tried catching up to her. “We are not going to Base Camp,” he said.  
-“Obviously,” she said, “and we are not doing any mountaineering stuff just to try and hack some numbers either,” she added. “We already peak-bagged all the peaks on the North Shore. I posted about those trips. Climbing mountains is already included in our risk profile. I don’t see how Dana’s stuff is relevant to us,” she said in a curt voice.  
+“Going to Base Camp is lame,” she muttered matter-of-factly, continuing her brisk march down.  
+He agreed. “It is a glorified, commercialized hike; there are enough mountains around us to climb,” he thought to himself as he tried catching up to her. “We are not going to Base Camp,” he said.  
+“Obviously,” she said, “and we are not doing any mountaineering stuff just to try to hack some numbers either,” she added. “We already peak-bagged all the peaks on the North Shore. I posted about those trips. Climbing mountains is already included in our risk profile. I don’t see how Dana’s stuff is relevant to us,” she said in a curt voice.  
 The trail turned the corner and her pace remained brisk. He clearly wasn’t scoring points communicating his idea.
 
 “That was long,” he observed to himself. Bringing up relevant but not-to-the-point information and arguments was a mistake he used to make quite often. “I’ll need to tread carefully,” he thought to himself as they kept walking at a brisk pace. There was silence, and one could hear their sneakers squeak as they stepped in wet leaves. He waited until they were almost at the end of the long flat part before saying anything more.
@@ -77,11 +98,11 @@ They were out of the wooded trail and onto the sidewalk now. “You’re just go
 “Oh boy,” she said, slowing down a little, and added, “you really are clueless.”  
 He had a slight sinking feeling. He had been thinking about this for a while now, planning it. Could he have missed something? “Why?” he asked, and knew he sounded sheepish.
 
-“First,” she said in a level voice, “you will not be traveling to Nepal; you are just going to a local brewery. You create no paper trail showing any intent to engage in anything remotely dangerous, other than, maybe, ordering nachos. Second, there exists at least one large-scale cohort study that has shown that men who were moderate drinkers actually gained almost a year in life expectancy over non-drinkers. You’ll tap your credit card for a beer, and your life expectancy will rise as a direct result. And last, when you drink in a social setting, you signal that you have friendships in your life, which would also increase your life expectancy quite a bit.
+“First,” she said in a level voice, “you will not be traveling to Nepal; you are just going to a local brewery. You create no paper trail showing any intent to engage in anything remotely dangerous, other than, maybe, ordering nachos. Second, there is at least one large-scale cohort study that has shown that men who were moderate drinkers actually gained almost a year in life expectancy over non-drinkers. You’ll tap your credit card for a beer, and your life expectancy will rise as a direct result. And last, when you drink in a social setting, you signal that you have friendships in your life, which would also increase your life expectancy quite a bit.
 
 Boom.
 
-They had reached their house now. All the satisfaction of the great gym session had washed away. He wasn’t feeling victorious or triumphant; he was defeated. “So what am I going to do?” he asked.
+By now they had reached their house. All the satisfaction of the great gym session had washed away. He wasn’t feeling victorious or triumphant; he was defeated. “So what am I going to do?” he asked.
 
 She opened the house door but stopped and turned back towards him.  
 For the first time today, she looked him in the eye, and as she did, he realized that it was she who actually had it figured out.  
@@ -89,6 +110,6 @@ Her lips then curled into a little smile; she leaned over, gave him a little kis
 
 ⸻⸻⸺
 
-© All Rights Reserved
+(c) All Rights Reserved
 
 Vancouver, 2024, 2025
