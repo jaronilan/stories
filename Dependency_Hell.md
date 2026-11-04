@@ -8,7 +8,9 @@
 
 
 # Dependency Hell
-by Jaroni Lan
+*by Jaroni Lan*
+<br>
+<br>
 
 
 
@@ -190,5 +192,6 @@ Oh crap.
 
 ⸻⸻⸺
 
-(c) All Rights Reserved 
+(c) All Rights Reserved
+
 Vancouver, 2021

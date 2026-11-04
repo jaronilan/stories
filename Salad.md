@@ -10,7 +10,9 @@
 
 
 # Salad
-by Jaroni Lan 
+*by Jaroni Lan*
+<br>
+<br>
 
 
 
@@ -69,6 +71,6 @@ The big overhead board read: “Tuesday, May 16, 13:45:38”.
 
 ⸻⸻⸺
 
-(c) All Rights Reserved 
-Vancouver, 2018, 2023 
+(c) All Rights Reserved
 
+Vancouver, 2018, 2023 

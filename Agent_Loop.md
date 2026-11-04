@@ -8,9 +8,9 @@
 
 
 # Agent Loop
-by Jaroni Lan
-
-
+*by Jaroni Lan*
+<br>
+<br>
 
 
 
@@ -188,10 +188,12 @@ Oh crap.
 
 ⸻⸻⸺
 
-(c) All Rights Reserved 
+(c) All Rights Reserved
+
 Vancouver, 2026 
 
-Derived from: 
-Dependency Hell
+Derived from: Dependency Hell
+
 (c) All Rights Reserve
+
 Vancouver, 2021

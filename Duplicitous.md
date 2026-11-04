@@ -8,7 +8,9 @@
 
 
 # Duplicitous
-by Jaroni Lan
+*by Jaroni Lan*
+<br>
+<br>
 
 
 
@@ -146,5 +148,6 @@ Note: An earlier version of this article mistakenly misspelled the name of Wone�
 
 ⸻⸻⸺
 
-(c) All Rights Reserved 
+(c) All Rights Reserved
+
 Vancouver, 2023, 2024
